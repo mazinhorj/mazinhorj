@@ -2,15 +2,15 @@
 
 ### Diretor Escolar | Graduando em Eng. de Software | Mestrando em Ciências da Educação | Full Stack Dev
 
-Sou um profissional multidisciplinar apaixonado por resolver problemas através da tecnologia. Atualmente, equilibro a gestão de unidades escolares com o desenvolvimento de software e estudos avançados em educação.
+Sou um profissional multidisciplinar apaixonado por resolver problemas através da tecnologia. Atualmente, equilibro a gestão de uma unidade escolar com o desenvolvimento de software e estudos avançados em educação.
 
 ---
 
 ### 🚀 Sobre Mim
 - 🏫 **Gestão Escolar:** Atuo como Diretor na rede municipal de Duque de Caxias (E. M. Bilíngue Maria Helena Tenório Cavalcanti).
-- 💻 **Desenvolvimento:** Cursando o 7º período de Engenharia de Software (UNOPAR/Anhanguera) e estagiário na **ANP**.
+- 💻 **Desenvolvimento:** Cursando o ´ltimo período de Engenharia de Software (UNOPAR/Anhanguera) e estagiário na **ANP**.
 - 🎓 **Mestrado:** Pesquisando os desafios da **Gestão 4.0 na Educação** pela FICS.
-- 🏍️ **Hobbies:** Entusiasta de motociclismo (Kawasaki Vulcan 650) e poliglota em progresso (Português, Inglês, Russo, Hebraico e LIBRAS).
+- 🏍️ **Hobbies:** Entusiasta de motociclismo e poliglota em progresso (Português, Inglês, Russo, Hebraico e LIBRAS).
 
 ---
 
