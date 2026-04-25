@@ -8,7 +8,7 @@ Sou um profissional multidisciplinar apaixonado por resolver problemas através 
 
 ### 🚀 Sobre Mim
 - 🏫 **Gestão Escolar:** Atuo como Diretor na rede municipal de Duque de Caxias (E. M. Bilíngue Maria Helena Tenório Cavalcanti).
-- 💻 **Desenvolvimento:** Cursando o ´ltimo período de Engenharia de Software (UNOPAR/Anhanguera) e estagiário na **ANP**.
+- 💻 **Desenvolvimento:** Cursando o último período de Engenharia de Software (UNOPAR/Anhanguera) e estagiário na **ANP**.
 - 🎓 **Mestrado:** Pesquisando os desafios da **Gestão 4.0 na Educação** pela FICS.
 - 🏍️ **Hobbies:** Entusiasta de motociclismo e poliglota em progresso (Português, Inglês, Russo, Hebraico e LIBRAS).
 
