@@ -1,6 +1,6 @@
 # Olá, eu sou o Osmar! 👋 (mazinhorj)
 
-### Diretor Escolar | Graduando em Eng. de Software | Mestrando em Ciências da Educação | Full Stack Dev
+### Diretor Escolar | Eng. de Software | Mestrando em Ciências da Educação | Full Stack Dev
 
 Sou um profissional multidisciplinar apaixonado por resolver problemas através da tecnologia. Atualmente, equilibro a gestão de uma unidade escolar com o desenvolvimento de software e estudos avançados em educação.
 
