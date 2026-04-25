@@ -12,6 +12,14 @@ Sou um profissional multidisciplinar apaixonado por resolver problemas através 
 - 🎓 **Mestrado:** Pesquisando os desafios da **Gestão 4.0 na Educação** pela FICS.
 - 🏍️ **Hobbies:** Entusiasta de motociclismo e poliglota em progresso (Português, Inglês, Russo, Hebraico e LIBRAS).
 
+### 📚 Aprendendo Agora (Current Learning)
+
+Atualmente focado em expandir meu repertório linguístico através de padrões e lógica:
+
+* **🇷🇺 Russo:** `████░░░░░░ 40%` (Explorando o alfabeto cirílico e casos gramaticais)
+* **🇮🇱 Hebraico:** `██░░░░░░░░ 20%` (Focado na lógica das raízes triliterais - *Shoresh*)
+* **🤟 LIBRAS:** Em constante prática para a gestão escolar inclusiva.
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
