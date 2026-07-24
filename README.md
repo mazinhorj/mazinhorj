@@ -7,8 +7,8 @@ Sou um profissional multidisciplinar apaixonado por resolver problemas através 
 ---
 
 ### 🚀 Sobre Mim
-- 🏫 **Gestão Escolar:** Diretor na rede municipal de Duque de Caxias (E. M. Bilíngue Maria Helena Tenório Cavalcanti).
-- 💻 **Desenvolvimento:** Cursando o último período de Engenharia de Software e estagiário na **ANP**.
+- 🏫 **Gestão Escolar:** Ex-Diretor na rede municipal de Duque de Caxias (E. M. Bilíngue Maria Helena Tenório Cavalcanti).
+- 💻 **Desenvolvimento:** Engenheiro de Software - Analista de Dados Técnicos na **ANP**.
 - 🎓 **Mestrado:** Pesquisando os desafios da **Gestão 4.0 na Educação** pela FICS.
 - 🏍️ **Hobbies:** Entusiasta de motociclismo e músico (baixista da banda Bichos Soltos).
 
@@ -20,10 +20,14 @@ Sou um profissional multidisciplinar apaixonado por resolver problemas através 
 - **Educação:** Liderança na transição tecnológica de unidades escolares bilingues.
 
 ---
+### Eu falo:
+- 🇧🇷 **Português (BR) - NATIVO:** Dominando a norma-padrão, elegância na escrita e oratória estratégica.
+- 🇬🇧 **Inglês:** Aprimorando a precisão técnica, vocabulário corporativo e nuances da fluência.
 
 ### 📚 Aprendendo Agora (Linguagens & Padrões)
+- 🇨🇳 **Mandarim:** Decodificando a lógica dos caracteres (hanzi), radicais e tons.
+- 🇩🇪 **Alemão:** Desvendando a ordem das palavras, declinações e palavras compostas.
 - 🇷🇺 **Russo:** Explorando a lógica do alfabeto cirílico e casos gramaticais.
-- 🇮🇱 **Hebraico:** Decifrando as raízes das palavras (*Shoresh*) e a escrita.
 - 🤟 **LIBRAS:** Focado em acessibilidade e gestão inclusiva.
 
 ---
