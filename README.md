@@ -44,7 +44,7 @@ Sou um profissional multidisciplinar apaixonado por resolver problemas através 
 
 ### 📊 Conhecimento em Foco
 <p align="left">
-  <img height="180em" src="[https://github-readme-extended.vercel.app/api/top-langs/?username=mazinhorj&layout=compact&langs_count=7&theme=dracula](https://github-stats-extended.vercel.app/api/top-langs?username=mazinhorj&langs_count=4&theme=github_dark)"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=mazinhorj&layout=donut&langs_count=5&hide_values=true&theme=github_dark"/>
 </p>
 
 ---
