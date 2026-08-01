@@ -9,7 +9,7 @@ Sou um profissional multidisciplinar apaixonado por resolver problemas através 
 ### 🚀 Sobre Mim
 - 🏫 **Gestão Escolar:** Ex-Diretor na rede municipal de Duque de Caxias (E. M. Bilíngue Maria Helena Tenório Cavalcanti).
 - 💻 **Desenvolvimento:** Engenheiro de Software - Analista de Dados Técnicos na **ANP**.
-- 🎓 **Mestrado:** Pesquisando os desafios da **Gestão 4.0 na Educação** pela FICS.
+- 🎓 **Mestrado:** Pesquisando os desafios da **Gestão 4.0 na Educação**.
 - 🏍️ **Hobbies:** Entusiasta de motociclismo e músico (baixista da banda Bichos Soltos).
 
 ### 🏢 Atuação Profissional & Experiência Real
